@@ -48,7 +48,7 @@ NLP 쉽조 알고리즘 및 코테 문제풀이 스터디입니다. 10🦀10🦀
 - description: 문제 주소 (option)
 - 터미널에서 작성법: 
 ```
-git commit -m "[Programmers] 바탕화면 정리 / LV.1 / 1분" -m "https://school.programmers.co.kr/learn/courses/30/lessons/161990"
+git commit -m "[PGS] 바탕화면 정리 / LV.1 / 1분" -m "https://school.programmers.co.kr/learn/courses/30/lessons/161990"
 ```
 - 플랫폼 작성법 통일(추후 플랫폼 변경 시): 
   * [BOJ] - 백준 
