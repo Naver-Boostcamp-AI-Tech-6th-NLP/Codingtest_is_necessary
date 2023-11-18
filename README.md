@@ -30,9 +30,8 @@ NLP 쉽조 알고리즘 및 코테 문제풀이 스터디입니다. 10🦀10🦀
 | **주차** | **주제**            | **문제 1**                                                   | **문제 2**                                                   | **문제 3**                                                   | **진행 현황** |
 | -------- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
 | 1주차    | 구현, greedy         | [바탕화면 정리 - Lv.1](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | [체육복 - Lv.1](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [조이스틱 - Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/42860)                                                             | `진행 완료`   |
-| 1주차    | 구현, greedy         | [바탕화면 정리 - Lv.1](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | [체육복 - Lv.1](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [조이스틱 - Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/42860)                   
-
-| 2주차    |    -     | - | - |                               -                               | `진행 중`   |
+| 2주차    |                      |                                                                                         |                                                                                 |             
+                                                                                                                                  | `진행 중`   |
 
 <!--
 | 3주차    | stack_queue         | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |                                                              | `진행 완료`   |
