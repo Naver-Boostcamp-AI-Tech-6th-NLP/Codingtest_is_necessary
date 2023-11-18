@@ -33,7 +33,7 @@ NLP 쉽조 알고리즘 및 코테 문제풀이 스터디입니다. 10🦀10🦀
 
 
 
-| 2주차    |         |  |  |                                                              | `진행 중`   |
+| 2주차    |    -     | - | - |                               -                               | `진행 중`   |
 
 <!--
 | 3주차    | stack_queue         | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |                                                              | `진행 완료`   |
