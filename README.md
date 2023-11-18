@@ -32,8 +32,10 @@ NLP 쉽조 알고리즘 및 코테 문제풀이 스터디입니다. 10🦀10🦀
 | 1주차    | 구현, greedy         | [바탕화면 정리 - Lv.1](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | [체육복 - Lv.1](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [조이스틱 - Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/42860)                                                             | `진행 완료`   |
 
 
+
+| 2주차    |         |  |  |                                                              | `진행 중`   |
+
 <!--
-| 2주차    | brute_force         | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |                                                              | `진행 완료`   |
 | 3주차    | stack_queue         | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |                                                              | `진행 완료`   |
 | 4주차    | dfs_bfs             | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | `진행 완료`   |
 | 5주차    | hash                | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | `진행 완료`   |
