@@ -36,8 +36,6 @@ NLP 쉽조 알고리즘 및 코테 문제풀이 스터디입니다. 10🦀10🦀
 | 4주차    | BFS/DFS                | [타겟 넘버 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/43165)           | [게임 맵 최단거리 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/43163)          | [네트워크 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/43162)                                                   
          | `진행 예정`   |
 
-| 4주차    | BFS/DFS             | [타겟 넘버 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/43165)               | [게임 맵 최단거리 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/43163)          |  [네트워크 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/43162)                                                  
-                 | `진행 예정`  |
 
 
 <!--
