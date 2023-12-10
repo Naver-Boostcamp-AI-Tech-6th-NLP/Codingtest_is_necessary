@@ -35,7 +35,7 @@ NLP 쉽조 알고리즘 및 코테 문제풀이 스터디입니다. 10🦀10🦀
 | 4주차    | BFS/DFS                | [타겟 넘버 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/43165)           | [게임 맵 최단거리 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/1844)          | [네트워크 - Lv.3](https://programmers.co.kr/learn/courses/30/lessons/43162)                 | `진행 완료`   |
 
 | 5주차    | hash, DP            | [폰켓몬 - Lv.1](https://school.programmers.co.kr/learn/courses/30/lessons/1845)           | [코딩테스트 공부 - Lv.3](https://school.programmers.co.kr/learn/courses/30/lessons/118668) |                                                                                                                                                       | `진행 중`   |
-
+| 16주차   | 16_week    | [구간 곱 구하기](https://www.acmicpc.net/problem/11505)  | [스타트와 링크](https://www.acmicpc.net/problem/14889)       |                                                    | `진행 완료`   |
 
 
 
