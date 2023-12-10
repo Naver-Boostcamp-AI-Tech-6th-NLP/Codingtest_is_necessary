@@ -34,7 +34,7 @@ NLP 쉽조 알고리즘 및 코테 문제풀이 스터디입니다. 10🦀10🦀
 | 3주차    | Stack/Queue         | [주식가격 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/42584)               | [프로세스 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/42587)          | [과제 진행하기 - Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/176962)                                                       | `진행 완료`   |
 | 4주차    | BFS/DFS                | [타겟 넘버 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/43165)           | [게임 맵 최단거리 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/1844)          | [네트워크 - Lv.3](https://programmers.co.kr/learn/courses/30/lessons/43162)                 | `진행 완료`   |
 
-
+| 5주차    | hash, DP            | [폰켓몬 - Lv.1](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [코딩테스트 공부 - Lv.3](https://school.programmers.co.kr/learn/courses/30/lessons/118668) |            | `진행 중`   |
 
 
 
@@ -42,7 +42,7 @@ NLP 쉽조 알고리즘 및 코테 문제풀이 스터디입니다. 10🦀10🦀
 
 <!--
 
-| 5주차    | hash                | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | `진행 완료`   |
+
 | 6주차    | sort                | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | `진행 완료`   |
 | 7주차    | binary_search       | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |                                                              | `진행 완료`   |
 | 8주차    | dynamic_programming | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | `진행 완료`   |
