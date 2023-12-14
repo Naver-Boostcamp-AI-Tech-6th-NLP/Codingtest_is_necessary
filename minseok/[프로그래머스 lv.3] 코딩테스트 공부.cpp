@@ -162,5 +162,4 @@ int solution(int alp, int cop, vector<vector<int>> problems) {
   이후 문제들 반복
     풀 수 있는 문제들에 대해
       해당문제를 풀었을 경우의 dp[new_alp][new_cop]를 기존의 dp값과 비교해서 알맞게 설정
-
 */
