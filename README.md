@@ -35,7 +35,7 @@ NLP 쉽조 알고리즘 및 코테 문제풀이 스터디입니다. 10🦀10🦀
 | 4주차    | BFS/DFS                | [타겟 넘버 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/43165)           | [게임 맵 최단거리 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/1844)          | [네트워크 - Lv.3](https://programmers.co.kr/learn/courses/30/lessons/43162)                 | `진행 완료`   |
 | 5주차    | hash, DP            | [폰켓몬 - Lv.1](https://school.programmers.co.kr/learn/courses/30/lessons/1845)           | [코딩테스트 공부 - Lv.3](https://school.programmers.co.kr/learn/courses/30/lessons/118668) |                      | `진행 완료`   |
 | 6주차    | 구현, Dijkstra      | [공원 산책 - Lv.1](https://school.programmers.co.kr/learn/courses/30/lessons/172928)           | [등산코스 정하기 - Lv.3](https://school.programmers.co.kr/learn/courses/30/lessons/118669) |                      | `진행 완료`   |
-
+| 7주차    | greedy(2), BFS/DFS(2)  | [큰 수 만들기 - Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [부대복귀 - Lv.3]([https://programmers.co.kr/learn/courses/30/lessons/42748](https://school.programmers.co.kr/learn/courses/30/lessons/132266?language=cpp)) |      | `진행 중`   |
 
 
 
