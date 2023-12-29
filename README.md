@@ -38,7 +38,7 @@ NLP 쉽조 알고리즘 및 코테 문제풀이 스터디입니다. 10🦀10🦀
 | 7주차    | greedy(2), BFS/DFS(2)  | [큰 수 만들기 - Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [부대복귀 - Lv.3](https://school.programmers.co.kr/learn/courses/30/lessons/132266?language=cpp) |      | `진행 완료`   |
 
 
-##### 화이팅! LEVEL2도 계속 가는겁니다!
+##### 수고 많았습니다~~ LEVEL2도 자율로 계속 가겠습니다! 화이팅!
 
 #### 2차 : 코딩테스트 고득점 Kit (프로그래머스) / 시작 : 24.1.1(월) / LEVEL 2
 
