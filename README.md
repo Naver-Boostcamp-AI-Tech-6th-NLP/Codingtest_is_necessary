@@ -35,8 +35,8 @@ NLP 쉽조 알고리즘 및 코테 문제풀이 스터디입니다. 10🦀10🦀
 | 4주차    | BFS/DFS                | [타겟 넘버 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/43165)           | [게임 맵 최단거리 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/1844)          | [네트워크 - Lv.3](https://programmers.co.kr/learn/courses/30/lessons/43162)                 | `진행 완료`   |
 | 5주차    | hash, DP            | [폰켓몬 - Lv.1](https://school.programmers.co.kr/learn/courses/30/lessons/1845)           | [코딩테스트 공부 - Lv.3](https://school.programmers.co.kr/learn/courses/30/lessons/118668) |                      | `진행 완료`   |
 | 6주차    | 구현, Dijkstra      | [공원 산책 - Lv.1](https://school.programmers.co.kr/learn/courses/30/lessons/172928)           | [등산코스 정하기 - Lv.3](https://school.programmers.co.kr/learn/courses/30/lessons/118669) |                      | `진행 완료`   |
-| 7주차    | greedy(2), BFS/DFS(2)  | [큰 수 만들기 - Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [부대복귀 - Lv.3](https://school.programmers.co.kr/learn/courses/30/lessons/132266?language=cpp) |      | `진행 중`   |
-| 8주차 | sort | [K번째수 - Lv.1](https://programmers.co.kr/learn/courses/30/lessons/42748) | [H-Index - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/42747) | [가장 큰 수 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/42746) | `진행 완료` |
+| 7주차    | greedy(2), BFS/DFS(2)  | [큰 수 만들기 - Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [부대복귀 - Lv.3](https://school.programmers.co.kr/learn/courses/30/lessons/132266?language=cpp) |      | `진행 완료`   |
+
 
 ##### 화이팅! LEVEL2도 계속 가는겁니다!
 
@@ -44,6 +44,7 @@ NLP 쉽조 알고리즘 및 코테 문제풀이 스터디입니다. 10🦀10🦀
 
 | **주차** | **주제**            | **문제 1**                                                   | **문제 2**                                                   | **문제 3**                                                   | **진행 현황** |
 | -------- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
+| 8주차 | sort | [K번째수 - Lv.1](https://programmers.co.kr/learn/courses/30/lessons/42748) | [H-Index - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/42747) | [가장 큰 수 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/42746) | `진행 예정` |
 | 9주차    | 미정         |  |  |                                               
 
 
