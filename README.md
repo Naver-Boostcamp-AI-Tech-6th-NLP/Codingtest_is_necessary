@@ -21,7 +21,6 @@ LEVEL 1 : NLP 쉽조 10🦀10🦀 가기~ 화이팅🤩
 
 LEVEL 2 : 안녕 자비스(JOB-ITs) 4조 4랑해~
 
-알고리즘 및 코테 문제풀이 스터디입니다.
 
 
 리드미 작성 참고글: <https://waytocse.tistory.com/59>
