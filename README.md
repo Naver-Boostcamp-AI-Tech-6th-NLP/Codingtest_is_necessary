@@ -42,8 +42,7 @@ LEVEL 2 : 안녕 자비스(JOB-ITs) 4조 4랑해~
 | 6주차    | 구현, Dijkstra   | [공원 산책 - Lv.1](https://school.programmers.co.kr/learn/courses/30/lessons/172928)           | [등산코스 정하기 - Lv.3](https://school.programmers.co.kr/learn/courses/30/lessons/118669) |     | `진행 완료`   |
 | 7주차    | greedy(2), BFS/DFS(2)  | [큰 수 만들기 - Lv.2](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [부대복귀 - Lv.3](https://school.programmers.co.kr/learn/courses/30/lessons/132266?language=cpp) |      | `진행 완료`   |
 | 8주차 | sort | [K번째수 - Lv.1](https://programmers.co.kr/learn/courses/30/lessons/42748) | [H-Index - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/42747) | [가장 큰 수 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/42746) | `진행 완료` |
-| 9주차    | binary_search     | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |    | `진행 중` |
-| 10주차    | heap                | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | `진행 예정`   |
+
 
 
 ##### 수고 많았습니다~~ LEVEL2는 자율로 가겠습니다! 화이팅!
@@ -51,7 +50,8 @@ LEVEL 2 : 안녕 자비스(JOB-ITs) 4조 4랑해~
 #### 2차 : 코딩테스트 고득점 Kit (프로그래머스) / 시작 : 24.1.1(월) / LEVEL 2
 
 | **주차** | **주제**            | **문제 1**                                                   | **문제 2**                                                   | **문제 3**                                                   | **진행 현황** |
-| -------- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
+| 9주차    | binary_search     | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |    | `진행 중` |
+| 10주차    | heap                | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | `진행 예정`   |
                                            
 
 
