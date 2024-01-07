@@ -50,6 +50,7 @@ LEVEL 2 : 안녕 자비스(JOB-ITs) 4조 4랑해~
 #### 2차 : 코딩테스트 고득점 Kit (프로그래머스) / 시작 : 24.1.1(월) / LEVEL 2
 
 | **주차** | **주제**            | **문제 1**                                                   | **문제 2**                                                   | **문제 3**                                                   | **진행 현황** |
+| -------- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
 | 9주차    | binary_search     | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |    | `진행 중` |
 | 10주차    | heap                | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | `진행 예정`   |
                                            
