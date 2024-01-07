@@ -51,8 +51,8 @@ LEVEL 2 : 안녕 자비스(JOB-ITs) 4조 4랑해~
 
 | **주차** | **주제**            | **문제 1**                                                   | **문제 2**                                                   | **문제 3**                                                   | **진행 현황** |
 | -------- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
-| 9주차    | binary_search     | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |    | `진행 중` |
-| 10주차    | heap                | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | `진행 예정`   |
+| 9주차    | binary_search     | [입국심사 - Lv.3](https://programmers.co.kr/learn/courses/30/lessons/43238) | [징검다리 - Lv.4](https://programmers.co.kr/learn/courses/30/lessons/43236) |    | `진행 중` |
+| 10주차    | heap                | [더 맵게 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/42626) | [디스크 컨트롤러 - Lv.3](https://programmers.co.kr/learn/courses/30/lessons/42627) | [이중우선순위큐 - Lv3](https://programmers.co.kr/learn/courses/30/lessons/42628) | `진행 예정`   |
                                            
 
 
