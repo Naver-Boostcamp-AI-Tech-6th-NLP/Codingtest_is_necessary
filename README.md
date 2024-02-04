@@ -54,8 +54,9 @@ LEVEL 2 : 안녕 자비스(JOB-ITs) 4조 4랑해~
 | 9주차    | binary_search     | [입국심사 - Lv.3](https://programmers.co.kr/learn/courses/30/lessons/43238) | [징검다리 - Lv.4](https://programmers.co.kr/learn/courses/30/lessons/43236) |    | `진행 완료` |
 | 10주차    | heap                | [더 맵게 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/42626) | [디스크 컨트롤러 - Lv.3](https://programmers.co.kr/learn/courses/30/lessons/42627) | [이중우선순위큐 - Lv3](https://programmers.co.kr/learn/courses/30/lessons/42628) | `진행 완료`   |
 | 11주차   | 2021_kakao_blind | [신규 아이디 추천 - Lv.1](https://programmers.co.kr/learn/courses/30/lessons/72410) | [메뉴 리뉴얼 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/72411) | [순위 검색 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/72412) | `진행 완료`   |
-| 12주차   | 2020_kakao_blind | [문자열 압축 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/60057) | [괄호 변환 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/60058) | [자물쇠와 열쇠 - Lv.3](https://programmers.co.kr/learn/courses/30/lessons/60059) | `진행 중`   |                                           
-
+| 12주차   | 2020_kakao_blind | [문자열 압축 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/60057) | [괄호 변환 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/60058) | [자물쇠와 열쇠 - Lv.3](https://programmers.co.kr/learn/courses/30/lessons/60059) | `진행 완료`   |                                           
+| 13주차   | 2019_kakao_blind | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) | `진행 중`   |
+| 14주차   | 2018_kakao_blind | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | `진행 예정`   |
 
 <!--
 
