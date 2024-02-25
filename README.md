@@ -57,8 +57,8 @@ LEVEL 2 : 안녕 자비스(JOB-ITs) 4조 4랑해~
 | 12주차   | 2020_kakao_blind | [문자열 압축 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/60057) | [괄호 변환 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/60058) | [자물쇠와 열쇠 - Lv.3](https://programmers.co.kr/learn/courses/30/lessons/60059) | `진행 완료`   |                                           
 | 13주차   | 2019_kakao_blind | [실패율 - Lv.1](https://programmers.co.kr/learn/courses/30/lessons/42889) | [오픈채팅방 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/42888) | [후보키 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/42890) | `진행 완료`   |
 | 14주차   | 2018_kakao_blind | [뉴스 클러스터링 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/17677) | [캐시 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/17680) | [프렌즈4블록 - Lv.2](https://programmers.co.kr/learn/courses/30/lessons/17679) | `진행 완료`   |
-| 15주차    | dynamic_programming | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | `진행 중`   |
-| 16주차   | graph               | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | `진행 예정`   |
+| 15주차    | dynamic_programming | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | `진행 완료`   |
+| 16주차   | graph               | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | `진행 중`   |
 
 <!--
 
